@@ -1,1 +1,8 @@
+Test Cases were written based on the changes effective in RFC 9260.
 
+Three group of test cases were executed.
+Group 1: Security Related Test Cases
+Group 2: Functionality Changes
+Group 3: Other Parameters
+
+Test cases were scripted in packetdrill.
